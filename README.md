@@ -1,4 +1,4 @@
-# Natural_Language_Processing_Coursera
+# Natural Language Processing Specialization from Coursera
 
 Natural Language Processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence that uses algorithms to interpret and manipulate human language. 
 
